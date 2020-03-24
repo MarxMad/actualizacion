@@ -40,14 +40,14 @@ main {
 	flex: 1 0 auto;
 }
 .sidenav{
-	background-color: #bdbdbd;
+	background-color: #424242;
 	font-family: 'Wallpoet', cursive;
 
 	
 }
 #mobile-demo li a{
-	font-size: 30px;
-	color: #6a1b9a;
+	font-size: 25px;
+	color: #ef6c00;
 
 
 }
@@ -67,7 +67,7 @@ main {
 	margin-left: 100px;
 }
 .page-footer{
-	background-color: #FACD00;
+	background-color: #424242;
 }
 .card-image img{
 	padding: 10px;
@@ -104,4 +104,10 @@ footer, h5 {
 }
 #parallax1{
 	width: 100%;
+	font-family: 'Wallpoet', cursive;
+}
+#logo{
+	text-align: center;
+	
+
 }

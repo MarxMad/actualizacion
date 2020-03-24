@@ -38,15 +38,17 @@ main {
 	flex: 1 0 auto;
 }
 .sidenav{
-	background-color: #bdbdbd;
+	background-color: #424242;
 	font-family: 'Wallpoet', cursive;
 
 	
 }
 #mobile-demo li a{
-	font-size: 30px;
-	margin: 10px;
-	color: #6a1b9a;
+	font-size: 25px;
+	color: #ef6c00;
+
+
+}
 
 }
 .row a img{
@@ -65,7 +67,7 @@ main {
 	margin-left: 100px;
 }
 .page-footer{
-	background-color: #FACD00;
+	background-color: #424242;
 }
 .card-image img{
 	padding: 10px;
@@ -99,4 +101,7 @@ footer, h5 {
 	font-family: 'Wallpoet', cursive;
 	font-size: 35px;
 
+}
+ul, .tabs{
+	color: black;
 }

@@ -1,26 +1,28 @@
 nav{
 	height: 113px;
+}
 
-
+ nav img{
 	
-}
-nav img{
-	width: 67px;
-	margin: 8px 0px 8px 35px;	
 
-}
+} 
 nav li a{	
 	font-family: 'Audiowide', cursive;
 	
 	/*font-family: 'Bungee Shade', cursive;*/
 }
 #atari, #nintendo, #portatiles, #xbox, #playstation, #retro{
-	color: #e65100;
-	padding: 15px;
+	color:#b71c1c ;
+	padding: 10;
+	font-size: 25px;
+	
+}
+#VAR{
 	font-size: 25px;
 }
-nav li a:hover{
-
+.inicio{
+	width: 100%;
+	
 }
 
 /*nav ul li a .contenido{
@@ -32,50 +34,43 @@ body {
 	min-height: 100vh;
 	flex-direction: column;
 	
-	font-family: 'Bungee', cursive;
-	background-color: black;
+	font-family: 'Audiowide', cursive;
+	background-color:#bdbdbd;
 }
 
 main {
 	flex: 1 0 auto;
 }
 .sidenav{
-	background-color: #424242;
-	font-family: 'Wallpoet', cursive;
+	background-color:#bdbdbd ;
+	font-family: 'Audiowide', cursive;
 
 	
 }
 #mobile-demo li a{
-	font-size: 25px;
-	color: #ef6c00;
+	font-size: 15px;
+	color:#c62828;
 
 
 }
-.row a img{
+/* .row a img{
 	width: 70px;
 	height: 70px;
 	margin: 10px;
-}
+} */
 
 .btn{
-	background-color: #c62828;
+	
 	margin: 10px;
 }
-#mariomaker{
-	width: 190px;
-	height: 190px;
-	margin-left: 100px;
-}
-.page-footer{
-	background-color: #424242;
-}
+
 .card-image img{
 	padding: 10px;
 
 }
 
 .sidenav-trigger{
-	color: #b71c1c;
+	color:#b71c1c  ;
 }
 .comprar:hover{
 	color: #1a237e;
@@ -98,16 +93,26 @@ main {
 footer, h5 {
 	/*font-family: 'Press Start 2P', cursive;
 	font-family: 'Rock Salt', cursive;*/
-	font-family: 'Wallpoet', cursive;
+	font-family: 'Righteous', cursive;
 	font-size: 35px;
 
 }
-#parallax1{
-	width: 100%;
-	font-family: 'Wallpoet', cursive;
-}
+
 #logo{
 	text-align: center;
-	
+	width: 270px;
+	padding: 10px,0px,0px,30px;
+	margin-left: 30px;
+}
+/* footer */
 
+.page-footer{
+	background-color: #b71c1c;
+	
+}
+
+
+}
+h5{
+	font-size: 20px;
 }
